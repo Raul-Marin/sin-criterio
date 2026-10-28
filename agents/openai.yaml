@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sin criterio"
+  short_description: "Menos latiguillos. Más explicaciones concretas."
+  default_prompt: "Usa $sin-criterio para revisar este texto y desarrollar las ideas que se esconden detrás de los latiguillos."
