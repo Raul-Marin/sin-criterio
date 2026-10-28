@@ -76,8 +76,6 @@ Abre una issue o una propuesta de cambio con la frase original, el contexto que 
 
 «Esto necesita más criterio» no cuenta como incidencia reproducible.
 
-## Autoría y licencia
-
-Una idea de [Raúl Marín](https://github.com/Raul-Marin).
+## Licencia
 
 [Licencia MIT](LICENSE). Puedes usarla, adaptarla y compartirla conservando el aviso de licencia.
