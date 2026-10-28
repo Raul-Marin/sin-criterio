@@ -1,5 +1,7 @@
 # Sin criterio
 
+![Sin criterio: menos latiguillos. Más conversación.](assets/cover.jpg)
+
 **Una skill para que tu IA deje de decir «criterio» y empiece a explicar qué quiere decir.**
 
 Ya vienen los del criterio. Y a veces somos nosotros.
